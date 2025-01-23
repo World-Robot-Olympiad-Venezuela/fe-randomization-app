@@ -1,5 +1,7 @@
 # WRO 2024 Future Engineers Randomization app
 
+If you would like to view this guide in Spanish, please visit the ![readme_es](README_ES.md) file in our GitHub repository. It contains more detailed instructions and information specific to Spanish-speaking users
+
 The web app simplifies the randomization process by preparing a picture with random layouts for both Open and Obstacle challenges:
 
 - For the Open Challenge

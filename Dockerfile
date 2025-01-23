@@ -11,7 +11,7 @@ RUN pip install --upgrade pip
 COPY requirements.txt .
 RUN pip install -r requirements.txt
 
-COPY app.py .
+COPY aplicacion.py .
 COPY templates ./templates
 
-ENTRYPOINT [ "gunicorn", "app:app" ]
+ENTRYPOINT [ "gunicorn", "aplicacion:app" ]
